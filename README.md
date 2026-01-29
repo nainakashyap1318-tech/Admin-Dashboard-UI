@@ -22,11 +22,10 @@ It includes a collapsible sidebar, responsive layout, cards, and charts.
 - Chart.js (for charts)
 
 ## Live Demo
-🔗 https://YOUR-GITHUB-USERNAME.github.io/DASHBOARD-REPO-NAME/
+🔗 https://nainakashyap1318-tech.github.io/Admin-Dashboard-UI/
 
 ## Source Code
-🔗 https://github.com/YOUR-GITHUB-USERNAME/DASHBOARD-REPO-NAME
-
+🔗 https://github.com/nainakashyap1318-tech/Admin-Dashboard-UI
 ## What I Learned
 - Creating complex layouts using Flexbox
 - Implementing responsive sidebars and hamburger menus
